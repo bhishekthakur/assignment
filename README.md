@@ -21,3 +21,21 @@ A static website is delivered to a user exactly the way it's stored. That means 
 
 what is dynamic sie? Explin in your own words.
 Dynamic Website is a website containing data that can be mutable or changeable. It uses client-side or server scripting to generate mutable content. Like a static website, it also contains HTML data. Dynamic websites are those websites that changes the content or layout with every request to the webserver.
+
+
+
+
+
+                                                                CSS  ASSIGNMENT
+What is position property in CSS and its type?
+The position property specifies the type of positioning method used for an element .
+There are five types of position
+static, relative, absolute, fixed, or sticky.
+
+
+How many types of positioning are there in CSS
+static , relative , absolute , fixed , and sticky 
+
+
+What is Z-indx and why to use it?
+Z Index ( z-index ) is a CSS property that defines the order of overlapping HTML elements
