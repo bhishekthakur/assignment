@@ -24,6 +24,33 @@ Dynamic Website is a website containing data that can be mutable or changeable. 
 
 
 
+                                                                  CSS  ASSIGNMENT  --- 1
+ What is CSS and why use it?
+ CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language.
+ 
+ What are the different ways t bring CSS into an HTML file.
+ CSS can be added to HTML documents in 3 ways:
+Inline - by using the style attribute inside HTML elements.
+Internal - by using a <style> element in the <head> section.
+External - by using a <link> element to link to an external CSS file.
+
+
+
+What do you mean by specificity in CSS.
+Specificity is an algorithm that calculates the weight that is applied to a given CSS declaration
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
                                                                 CSS  ASSIGNMENT
